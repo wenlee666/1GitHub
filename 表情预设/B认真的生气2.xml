@@ -1,0 +1,30 @@
+<root>
+  <skinnedMeshes eyesPtn="0" eyesOpen="1" mouthPtn="0" mouthOpen="0" eyebrowsPtn="0" eyebrowsOpen="1">
+    <skinnedMesh name="BodyTop/p_cf_anim/cf_J_Root/cf_N_height/cf_J_Hips/cf_J_Spine01/cf_J_Spine02/cf_J_Spine03/cf_J_Neck/cf_J_Head/cf_J_Head_s/p_cf_head_bone/ct_head/n_head_cf2_c1/o_head">
+      <blendShape index="9" weight="100" />
+      <blendShape index="18" weight="0" />
+      <blendShape index="19" weight="100" />
+      <blendShape index="20" weight="0" />
+      <blendShape index="23" weight="100" />
+      <blendShape index="22" weight="24.6951218" />
+      <blendShape index="12" weight="0" />
+      <blendShape index="30" weight="0" />
+      <blendShape index="32" weight="39.9390259" />
+      <blendShape index="34" weight="0" />
+      <blendShape index="31" weight="47.2561" />
+      <blendShape index="52" weight="0" />
+      <blendShape index="53" weight="100" />
+      <blendShape index="54" weight="57.92683" />
+      <blendShape index="56" weight="0" />
+      <blendShape index="55" weight="25.3048782" />
+    </skinnedMesh>
+    <skinnedMesh name="BodyTop/p_cf_anim/cf_J_Root/cf_N_height/cf_J_Hips/cf_J_Spine01/cf_J_Spine02/cf_J_Spine03/cf_J_Neck/cf_J_Head/cf_J_Head_s/p_cf_head_bone/ct_head/n_head_cf2_c1/o_namida">
+      <blendShape index="9" weight="100" />
+      <blendShape index="12" weight="0" />
+    </skinnedMesh>
+    <skinnedMesh name="BodyTop/p_cf_anim/cf_J_Root/cf_N_height/cf_J_Hips/cf_J_Spine01/cf_J_Spine02/cf_J_Spine03/cf_J_Neck/cf_J_Head/cf_J_Head_s/p_cf_head_bone/ct_head/n_head_cf2_c1/o_eyelashes">
+      <blendShape index="9" weight="100" />
+      <blendShape index="12" weight="0" />
+    </skinnedMesh>
+  </skinnedMeshes>
+</root>
