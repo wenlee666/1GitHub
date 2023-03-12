@@ -1,3 +1,0 @@
-确保你有最新版HS2PE
-
-将文件放在userdata\HS2PE\blendshapePresets
